@@ -7,7 +7,7 @@ from config import SITES_LIST
 from process import fetch_data
 
 def main():
-    st.title("HOT Product Stats")
+    st.title("HOT Tool Stats")
 
     # Initialize data
     if 'data' not in st.session_state:
