@@ -3,6 +3,8 @@
 This is a Streamlit application that fetches and displays statistics related to HOT (Humanitarian OpenStreetMap Team) products.
 The application allows users to select a date range and then copy&paste Id, Name and Product name directly from a spreadsheet table, receiving corresponding data from Matomo and/or Other sources.
 
+https://hot-tool-stats.streamlit.app
+
 ## Prerequisites
 
 Before running the application, make sure you have the following dependencies installed:
